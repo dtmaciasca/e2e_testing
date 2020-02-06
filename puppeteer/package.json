@@ -1,0 +1,43 @@
+{
+  "name": "puppeteer-and-jest-example",
+  "version": "1.0.0",
+  "description": "Example app using Headless Chrome, Puppeteer and Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testMatch": "node teste2e.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paigen11/puppeteer-and-jest-example.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "jest",
+    "headless chrome",
+    "chrome",
+    "javascript",
+    "nodejs",
+    "testing",
+    "jest-environment",
+    "jest-puppeteer",
+    "chromeless",
+    "chrome-headless"
+  ],
+  "author": "Paige Niedringhaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paigen11/puppeteer-and-jest-example/issues"
+  },
+  "homepage": "https://github.com/paigen11/puppeteer-and-jest-example#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "cwd": "^0.10.0",
+    "jest": "^23.6.0",
+    "jest-dev-server": "^4.4.0",
+    "jest-puppeteer": "^4.4.0",
+    "merge-deep": "^3.0.2",
+    "puppeteer": "^1.20.0"
+  }
+}
