@@ -17,7 +17,7 @@ Playwright fue creado por el mismo equipo que creó Puppeteer. Su objetivo es me
 Por el momento Playwright se encuentra actualmente en una versión 0.9.x, con una versión estable 1.0 prevista para 2020.
 
 **Desventajas:**
-* Puppeteer es el proyecto más establecido en este momento, ya que aun se esta trabajando en el desarrollo de este, esperan sacar una versión estable en el 2020.
+* Puppeteer es el proyecto más establecido en este momento. Aun se esta trabajando en el desarrollo de PlayWright y esperan sacar una versión estable en el 2020.
 * El funcionamiento de slowMo puede ser temperamental, comparado con Puppeteer, si este se configura demasiado alto, las pruebas a menudo fallan. La consistencia de slowMo también parece variar de un navegador a otro.
 
 
