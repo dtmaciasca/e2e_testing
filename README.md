@@ -27,7 +27,7 @@ Por el momento Playwright se encuentra actualmente en una versión 0.9.x, con un
 |Locators para AngularJS | No  | Sí  | No  |  |
 |Integración con Test frameworks |No, interno (sintaxis jasmine) |Jasmine, Mocha, Cucumber |Principalmente todos |Chai, Mocha, Jasmine, Jest, Cucumber |
 |Sistemas operativos | Mac, Linux  | Mac, Linux, Windows  | Mac, Linux, Windows  | Mac, Linux, Windows |
-|Grabación de pruebas| Sí  | No  | No  |   |
+|Grabación de pruebas| Sí  | No  | No  | Screenshots |
 |Selenium backend | No  | Sí  | No  |   |
 |Time-traveling | Sí  | No  | No  | 
 
