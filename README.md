@@ -11,6 +11,8 @@ Playwright fue creado por el mismo equipo que creó Puppeteer. Su objetivo es me
 * Es una alternativa a WebDriver, el estándar actual del W3C para automatización y pruebas web. Con esto, esperan dar soporte a las PWA y generar mayor confiabilidad en las pruebas. 
 * Playwright admite versiones anteriores de Chromium, y planea sincronizar su npm ciclo de lanzamiento con los lanzamientos de canales estables de Chromium. 
 * Playwright admite cada motor de navegador en Windows, macOS y Linux.  
+* Reduce la necesidad de tiempos de espera.
+* Mejor detección de la visibilidad del elemento antes de la interacción.
 
 Por el momento Playwright se encuentra actualmente en una versión 0.9.x, con una versión estable 1.0 prevista para 2020.
 
