@@ -17,17 +17,20 @@ Playwright fue creado por el mismo equipo que creó Puppeteer. Su objetivo es me
 Por el momento Playwright se encuentra actualmente en una versión 0.9.x, con una versión estable 1.0 prevista para 2020.
 
 **Desventajas:**
-* 
+* Puppeteer es el proyecto más establecido en este momento, ya que aun se esta trabajando en el desarrollo de este, esperan sacar una versión estable en el 2020.
+* El funcionamiento de slowMo puede ser temperamental, comparado con Puppeteer, si este se configura demasiado alto, las pruebas a menudo fallan. La consistencia de slowMo también parece variar de un navegador a otro.
 
 
 | | Cypress | Protractor | Puppeteer | PlayWright |
 |--|--|----|-----|----|
 |Interfaz gráfica | Sí | No | No | No |
-| Generador de configuración | Sí  | Sí (Con angular CLI)  | No |
-|Locators para AngularJS | No  | Sí  | No  |  |
+| Generador de configuración | Sí  | Sí (Con angular CLI)  | No | No |
+|Locators para AngularJS | No  | Sí  | No  | No |
 |Integración con Test frameworks |No, interno (sintaxis jasmine) |Jasmine, Mocha, Cucumber |Principalmente todos |Chai, Mocha, Jasmine, Jest, Cucumber |
 |Sistemas operativos | Mac, Linux  | Mac, Linux, Windows  | Mac, Linux, Windows  | Mac, Linux, Windows |
 |Grabación de pruebas| Sí  | No  | No  | Screenshots |
-|Selenium backend | No  | Sí  | No  |   |
-|Time-traveling | Sí  | No  | No  | 
+|Selenium backend | No  | Sí  | No  | No |
+|Time-traveling | Sí  | No  | No  | No |
+|Open source | Sí | Sí, diseñado específicamente para aplicaciones web AngularJS.| Sí | Sí |
+|Debuggability|Sí|Sí|Sí|Sí|
 
