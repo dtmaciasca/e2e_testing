@@ -33,4 +33,5 @@ Por el momento Playwright se encuentra actualmente en una versión 0.9.x, con un
 |Time-traveling | Sí  | No  | No  | No |
 |Open source | Sí | Sí, diseñado específicamente para aplicaciones web AngularJS.| Sí | Sí |
 |Debuggability|Sí|Sí|Sí|Sí|
+|Nagevator| Canary, Edge (varias versiones), Chrome, Chromium, Electro y Firefox (varias versiones) | Chrome, Firefox, Safari y IE | Chrome y Chromium | Chromium, WebKit, Firefox and Edge |
 
