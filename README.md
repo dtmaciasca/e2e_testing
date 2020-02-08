@@ -1,3 +1,7 @@
+Grupo de trabajo:
+* Ingrid Dayana Romero Melgarejo
+* Deisy Tatiana Macias Cardenas
+
 # PlayWright
 
 Playwright al igual que Puppeteer, es una herramienta de automatización. A diferencia de Puppeteer, Playwright automatiza navegadores basados en Chromium, Firefox y WebKit a través de una única API.  
